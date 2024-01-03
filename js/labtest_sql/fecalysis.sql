@@ -1,0 +1,18 @@
+INSERT INTO `labtest` (`labid`, `test`, `typeoftest`, `subtype`, `normalmin`, `normalmax`, `flag`, `price`) VALUES
+(66, 'Fecalysis', 'Others', 'NA', 'NA', '', '', 100),
+(65, 'Fecalysis', 'Amoeba', '    CS Trophozoite', 'NA', '', '', 100),
+(63, 'Fecalysis', 'Amoeba', '    HS Trophozoite', 'NA', '', '', 100),
+(64, 'Fecalysis', 'Amoeba', 'E. coli cyst', 'NA', '', '', 100),
+(62, 'Fecalysis', 'Amoeba', 'E. histolytica cyst', 'NA', '', '', 100),
+(60, 'Fecalysis', 'Parasites', 'Hookworm', 'NA', '', '', 100),
+(61, 'Fecalysis', 'Parasites', 'Others', 'NA', '', '', 100),
+(59, 'Fecalysis', 'Parasites', 'T. trichura', 'NA', '', '', 100),
+(58, 'Fecalysis', 'Parasites', 'Ascaris lumbricoides', 'N/A', '', '', 100),
+(57, 'Fecalysis', 'Microscopic Findings', 'Others', 'NA', '', '', 100),
+(56, 'Fecalysis', 'Microscopic Findings', 'Yeast Cells', 'NA', '', '', 100),
+(54, 'Fecalysis', 'Microscopic Findings', 'RCB /hpf', 'NA', '', '', 100),
+(55, 'Fecalysis', 'Microscopic Findings', 'Fat Globules', 'NA', '', '', 100),
+(53, 'Fecalysis', 'Microscopic Findings', 'Pus Cells /hpf', 'NA', '', '', 100),
+(52, 'Fecalysis', 'Chemical Test', 'Occult Blood', 'NA', '', '', 100),
+(51, 'Fecalysis', 'Physical Properties', 'Consistency', 'NA', '', '', 100),
+(50, 'Fecalysis', 'Physical Properties', 'Color', 'NA', '', '', 100);
